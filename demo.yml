@@ -1,0 +1,20 @@
+key: value
+name: kartik
+
+courses:
+  - Devops
+  - AWS
+  - Python
+  - Gen AI
+
+
+information:
+  name: Kartik
+  age: 22
+  channel: azecthec
+  jobs:
+    - univ student
+    - yt
+    - live yt
+    - cook
+    - CR
